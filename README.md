@@ -1,1 +1,1 @@
-Código em FORTRAN para geração de um Triangulene, junto com uma figura TGA de um grafeno
+![Imagem do projeto](https://imgur.com/rKjmqGO)
